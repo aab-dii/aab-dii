@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Github Statistic
-<img src="https://streak-stats.demolab.com?user=aab-dii&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=aab-dii&theme=algolia&fire=EB5454" alt="GitHub Streak"/>
   <br>
 <p align="left">
 <a href="https://github.com/aab-dii">
