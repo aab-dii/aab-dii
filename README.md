@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 ### Github Statistic
+<img src="https://streak-stats.demolab.com?user=aab-dii&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
+  <br>
 <p align="left">
 <a href="https://github.com/aab-dii">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aab-dii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
